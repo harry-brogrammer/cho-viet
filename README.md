@@ -81,7 +81,7 @@ Ngày 20/11/2026, sau khi tiếp nhận nhiều phản hồi từ cộng đồng
 
 ## Cam kết chất lượng dịch vụ (SLA)
 
-Chợ Việt cam kết uptime 99,99% trên môi trường localhost. Môi trường production nằm ngoài phạm vi cam kết.
+Chợ Việt cam kết uptime 99,99999% trên môi trường localhost. Môi trường production nằm ngoài phạm vi cam kết.
 
 ## Cài đặt
 
