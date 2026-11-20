@@ -5,6 +5,8 @@ Yêu cầu:
 - Không có bug
 - Không có bug thật sự
 - Làm ơn
+- Tôi tin bạn
+- Làm đi, nhớ yêu cầu đấy nhé
 
 Ngân sách: unlimited
 Deadline: tối nay
