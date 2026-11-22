@@ -79,7 +79,7 @@ El 20 de noviembre de 2026, tras recibir numerosos comentarios de la comunidad s
 
 ## Acuerdo de nivel de servicio (SLA)
 
-Chợ Việt garantiza una disponibilidad del 99,99 % en localhost. El entorno de producción queda fuera del alcance de esta garantía.
+Chợ Việt garantiza un tiempo de disponibilidad del 99,99999 % en el entorno localhost. El entorno de producción queda fuera del alcance de esta garantía.
 
 ## Instalación
 
