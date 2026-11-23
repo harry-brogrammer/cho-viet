@@ -79,7 +79,7 @@ On 20 November 2026, after receiving extensive community feedback regarding code
 
 ## Service level agreement (SLA)
 
-Chợ Việt guarantees 99.99% uptime on localhost. The production environment is outside the scope of this guarantee.
+Chợ Việt guarantees 99.99999% uptime in the localhost environment. The production environment is outside the scope of this guarantee.
 
 ## Installation
 

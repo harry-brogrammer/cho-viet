@@ -79,7 +79,7 @@ Am 20. November 2026 hat das Projektteam nach zahlreichen Rückmeldungen aus der
 
 ## Service Level Agreement (SLA)
 
-Chợ Việt garantiert eine Verfügbarkeit von 99,99 % auf localhost. Die Produktionsumgebung ist von dieser Garantie ausgenommen.
+Chợ Việt garantiert eine Verfügbarkeit von 99,99999 % in der localhost-Umgebung. Die Produktionsumgebung ist von dieser Garantie ausgeschlossen.
 
 ## Installation
 
