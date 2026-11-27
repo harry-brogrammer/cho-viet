@@ -6,7 +6,7 @@ Nền tảng thương mại điện tử thế hệ mới, được phát triể
 
 ![build](https://img.shields.io/badge/build-passing%20%28localhost%29-brightgreen) ![uptime](https://img.shields.io/badge/uptime-99.99%25%20%28localhost%29-brightgreen) ![database](https://img.shields.io/badge/database-Google%20Sheets-34A853) ![code review](https://img.shields.io/badge/code%20review-0%25-red) ![license](https://img.shields.io/badge/license-MIT-blue)
 
-**Môi trường production:** https://harry-brogrammer.github.io/cho-viet/ (giới hạn 3 người dùng đồng thời)
+**Môi trường production:** https://taolaolab.com/cho-viet/ (giới hạn 3 người dùng đồng thời)
 
 ## Tổng quan
 
